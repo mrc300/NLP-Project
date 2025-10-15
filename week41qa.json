@@ -1,0 +1,407 @@
+[
+  {
+    "question": "덴마크의 수도는 어디인가요?",
+    "context": "Copenhagen is the capital of Denmark.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Copenhagen",
+    "answer_inlang": "코펜하겐"
+  },
+  {
+    "question": "《나이팅게일》 이야기를 쓴 사람은 누구인가요?",
+    "context": "The nightingale was written by H.C. Andersen.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 30,
+    "answer": "H.C Andersen",
+    "answer_inlang": "한스 크리스티안 안데르센"
+  },
+  {
+    "question": "세계에서 가장 긴 강은 무엇인가요?",
+    "context": "The Nile is the longest river in the world.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Nile",
+    "answer_inlang": "나일강"
+  },
+  {
+    "question": "스웨덴의 수도는 어디인가요?",
+    "context": "Stockholm is the capital of Sweden.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Stockholm",
+    "answer_inlang": "스톡홀름"
+  },
+  {
+    "question": "덴마크는 몇 년도에 EU에 가입했나요?",
+    "context": "Denmark joined the EU in 1973.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 25,
+    "answer": "1973",
+    "answer_inlang": "1973"
+  },
+  {
+    "question": "물의 화학식은 무엇인가요?",
+    "context": "The chemical formula of water is H2O.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 33,
+    "answer": "H2O",
+    "answer_inlang": "H2O"
+  },
+  {
+    "question": "모나리자를 그린 사람은 누구인가요?",
+    "context": "Mona Lisa was painted by Leonardo da Vinci between 1503 and 1506.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 25,
+    "answer": "Leonardo da Vinci",
+    "answer_inlang": "레오나르도 다 빈치"
+  },
+  {
+    "question": "덴마크에서 가장 큰 섬은 무엇인가요?",
+    "context": "Zealand is the largest of the Danish isles.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Zealand",
+    "answer_inlang": "셸란 섬"
+  },
+  {
+    "question": "노르웨이의 수도는 어디인가요?",
+    "context": "Oslo is the capital of Norway.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Oslo",
+    "answer_inlang": "오슬로"
+  },
+  {
+    "question": "거미는 다리가 몇 개인가요?",
+    "context": "A spider has eight legs.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 13,
+    "answer": "eight",
+    "answer_inlang": "여덟"
+  },
+  {
+    "question": "스페인에서는 어떤 언어를 사용하나요?",
+    "context": "In Spain they speak spanish.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 20,
+    "answer": "spanish",
+    "answer_inlang": "스페인어"
+  },
+  {
+    "question": "독일의 수도는 어디인가요?",
+    "context": "Berlin is the capital of Germany.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Berlin",
+    "answer_inlang": "베를린"
+  },
+  {
+    "question": "베를린 장벽은 몇 년도에 무너졌나요?",
+    "context": "The Berlin wall was demolished in 1989.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 34,
+    "answer": "1989",
+    "answer_inlang": "1989"
+  },
+  {
+    "question": "이탈리아의 수도는 어디인가요?",
+    "context": "Rome is the capital of Italy.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Rome",
+    "answer_inlang": "로마"
+  },
+  {
+    "question": "태양에 가장 가까운 행성은 무엇인가요?",
+    "context": "Mercury is the closest planet to the Sun.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Mercury",
+    "answer_inlang": "수성"
+  },
+  {
+    "question": "세계에서 가장 큰 바다는 무엇인가요?",
+    "context": "The Pacific is the largest ocean.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Pacific",
+    "answer_inlang": "태평양"
+  },
+  {
+    "question": "대륙은 몇 개가 있나요?",
+    "context": "There are seven continents.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 10,
+    "answer": "seven",
+    "answer_inlang": "일곱"
+  },
+  {
+    "question": "핀란드의 수도는 어디인가요?",
+    "context": "Helsinki is the capital of Finland.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Helsinki",
+    "answer_inlang": "헬싱키"
+  },
+  {
+    "question": "토머스 에디슨은 전구로 무엇을 했나요?",
+    "context": "The light bulb was invented by Thomas Edison.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 19,
+    "answer": "invented",
+    "answer_inlang": "발명함"
+  },
+  {
+    "question": "빨간색과 노란색을 섞으면 무슨 색이 되나요?",
+    "context": "Orange is a mixture of red and yellow.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "orange",
+    "answer_inlang": "주황색"
+  },
+  {
+    "question": "태양계에서 가장 큰 행성은 무엇인가요?",
+    "context": "Jupiter is the fifth planet from the Sun and the largest in the Solar System.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Jupiter",
+    "answer_inlang": "목성"
+  },
+  {
+    "question": "프랑스 혁명은 언제 시작되었나요?",
+    "context": "The French Revolution began in 1789 and lasted until 1799.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 28,
+    "answer": "1789",
+    "answer_inlang": "1789년"
+  },
+  {
+    "question": "세계에서 가장 긴 강은 무엇인가요?",
+    "context": "The Amazon River flows through South America.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "사과의 색은 무엇인가요?",
+    "context": "Apples can be red, green, or yellow depending on the variety.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "해리포터 시리즈의 저자는 누구인가요?",
+    "context": "J.K. Rowling wrote the Harry Potter book series.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "J.K. Rowling",
+    "answer_inlang": "J.K. 롤링"
+  },
+  {
+    "question": "지구의 위성은 무엇인가요?",
+    "context": "The Moon is Earth's only natural satellite.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Moon",
+    "answer_inlang": "달"
+  },
+  {
+    "question": "독일의 현재 총리는 누구인가요?",
+    "context": "Angela Merkel served as Chancellor of Germany from 2005 to 2021.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "물의 화학식은 무엇인가요?",
+    "context": "Water has the chemical formula H2O.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 22,
+    "answer": "H2O",
+    "answer_inlang": "H2O"
+  },
+  {
+    "question": "한국의 수도는 어디인가요?",
+    "context": "Busan is a major port city in South Korea.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "세계에서 가장 높은 산은 무엇인가요?",
+    "context": "Mount Everest is the highest mountain above sea level.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Mount Everest",
+    "answer_inlang": "에베레스트 산"
+  },
+  {
+    "question": "셰익스피어의 출생년도는 언제인가요?",
+    "context": "William Shakespeare was an English playwright.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "사람의 심장은 몇 개의 방으로 구성되어 있나요?",
+    "context": "The human heart has four chambers: two atria and two ventricles.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 17,
+    "answer": "four",
+    "answer_inlang": "네 개"
+  },
+  {
+    "question": "피카소가 태어난 나라는 어디인가요?",
+    "context": "Pablo Picasso was born in Spain in 1881.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 22,
+    "answer": "Spain",
+    "answer_inlang": "스페인"
+  },
+  {
+    "question": "태양의 표면 온도는 얼마나 되나요?",
+    "context": "The Sun is a star at the center of our solar system.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "원의 둘레를 구하는 공식은 무엇인가요?",
+    "context": "The circumference of a circle is calculated as 2πr.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 41,
+    "answer": "2πr",
+    "answer_inlang": "2πr"
+  },
+  {
+    "question": "아마존 열대우림은 어디에 위치해 있나요?",
+    "context": "The Amazon rainforest is located in South America.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 35,
+    "answer": "South America",
+    "answer_inlang": "남아메리카"
+  },
+  {
+    "question": "첫 번째 아이폰이 출시된 연도는 언제인가요?",
+    "context": "Apple Inc. released the first iPhone in 2007.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 35,
+    "answer": "2007",
+    "answer_inlang": "2007년"
+  },
+  {
+    "question": "북극곰의 주 서식지는 어디인가요?",
+    "context": "Polar bears are marine mammals native to the Arctic region.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 41,
+    "answer": "Arctic",
+    "answer_inlang": "북극"
+  },
+  {
+    "question": "영국의 통화 단위는 무엇인가요?",
+    "context": "France uses the euro as its currency.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "포토샵을 개발한 회사는 어디인가요?",
+    "context": "Adobe Inc. developed Photoshop, a popular image editing software.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Adobe Inc.",
+    "answer_inlang": "어도비"
+  },
+  {
+    "question": "지구의 대기는 주로 어떤 기체로 구성되어 있나요?",
+    "context": "Earth's atmosphere is composed mainly of nitrogen and oxygen.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  },
+  {
+    "question": "오스트레일리아의 수도는 어디인가요?",
+    "context": "Canberra is the capital city of Australia.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Canberra",
+    "answer_inlang": "캔버라"
+  },
+  {
+    "question": "DNA의 이중 나선 구조를 발견한 과학자는 누구인가요?",
+    "context": "Watson and Crick discovered the double helix structure of DNA.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Watson and Crick",
+    "answer_inlang": "왓슨과 크릭"
+  },
+  {
+    "question": "세계에서 가장 큰 사막은 무엇인가요?",
+    "context": "The Sahara is the largest hot desert in the world.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Sahara",
+    "answer_inlang": "사하라 사막"
+  },
+  {
+    "question": "비틀즈 밴드의 리더는 누구였나요?",
+    "context": "The Beatles were a British rock band formed in Liverpool.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no answer",
+    "answer_inlang": "정답 없음"
+  }
+]
