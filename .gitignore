@@ -2,3 +2,4 @@
 /venv
 translation_cache.pkl
 /.ipynb_checkpoints
+/mlruns
