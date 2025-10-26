@@ -1,0 +1,272 @@
+[
+  {
+    "question": "코펜하겐은 몇 세기에 세워졌나요?",
+    "context": "Originally established in the 10th century, Copenhagen became the capital of Denmark in the early 15th century.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 55,
+    "answer": "10th century",
+    "answer_inlang": "10세기"
+  },
+  {
+    "question": "《나이팅게일》 이야기를 쓴 사람은 누구인가요?",
+    "context": "'The Nightingale' (Danish: Nattergalen) is a literary fairy tale written by Danish author Hans Christian Andersen.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 90,
+    "answer": "Hans Christian Andersen",
+    "answer_inlang": "한스 크리스티안 안데르센"
+  },
+  {
+    "question": "세계에서 가장 긴 강은 무엇인가요?",
+    "context": "The Nile, at roughly 6,650 km long, is the longest river in the world.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Nile",
+    "answer_inlang": "나일강"
+  },
+  {
+    "question": "스웨덴의 수도는 어디인가요?",
+    "context": "Stockholm is the capital and most populous city of Sweden, as well as the largest urban area in the Nordic countries.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Stockholm",
+    "answer_inlang": "스톡홀름"
+  },
+  {
+    "question": "덴마크는 몇 년도에 EU에 가입했나요?",
+    "context": "After much negotiation, Denmark joined the European Communities on 1 January 1973.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 169,
+    "answer": "1973",
+    "answer_inlang": "1973"
+  },
+  {
+    "question": "물의 화학식은 무엇인가요?",
+    "context": "The chemical formula of water is H2O.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 33,
+    "answer": "H2O",
+    "answer_inlang": "H2O"
+  },
+  {
+    "question": "모나리자를 그린 사람은 누구인가요?",
+    "context": "Mona Lisa was painted by Leonardo da Vinci between 1503 and 1506.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 25,
+    "answer": "Leonardo da Vinci",
+    "answer_inlang": "레오나르도 다 빈치"
+  },
+  {
+    "question": "덴마크에서 가장 큰 섬은 무엇인가요?",
+    "context": "Zealand is the largest of the Danish isles.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Zealand",
+    "answer_inlang": "셸란 섬"
+  },
+  {
+    "question": "노르웨이의 수도는 어디인가요?",
+    "context": "The capital of Norway is Oslo.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 25,
+    "answer": "Oslo",
+    "answer_inlang": "오슬로"
+  },
+  {
+    "question": "거미는 다리가 몇 개인가요?",
+    "context": "A spider has eight legs and way too many eyes. Some spiders are big and others are small.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 13,
+    "answer": "eight",
+    "answer_inlang": "여덟"
+  },
+  {
+    "question": "스페인에서는 어떤 언어를 사용하나요?",
+    "context": "In Spain they speak spanish.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 20,
+    "answer": "spanish",
+    "answer_inlang": "스페인어"
+  },
+  {
+    "question": "독일의 수도는 어디인가요?",
+    "context": "Berlin is the capital and largest city of Germany, by both area and population.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Berlin",
+    "answer_inlang": "베를린"
+  },
+  {
+    "question": "어떤 사고로 인한 오염이 주변에 흩어져 있었습니까?",
+    "context": "Contamination from the Chernobyl accident was scattered irregularly depending on weather conditions.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 23,
+    "answer": "Chernobyl accident",
+    "answer_inlang": "체르노빌 사고"
+  },
+  {
+    "question": "이탈리아의 수도는 어디인가요?",
+    "context": "Rome is the capital city and most populated comune (municipality) of Italy.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Rome",
+    "answer_inlang": "로마"
+  },
+  {
+    "question": "태양에 가장 가까운 행성은 무엇인가요?",
+    "context": "Mercury is the closest planet to the Sun.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Mercury",
+    "answer_inlang": "수성"
+  },
+  {
+    "question": "세계에서 가장 큰 바다는 무엇인가요?",
+    "context": "The Pacific is the largest ocean.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Pacific",
+    "answer_inlang": "태평양"
+  },
+  {
+    "question": "대륙은 몇 개가 있나요?",
+    "context": "There are seven continents.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 10,
+    "answer": "seven",
+    "answer_inlang": "일곱"
+  },
+  {
+    "question": "핀란드의 수도는 어디인가요?",
+    "context": "Helsinki is the capital of Finland.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Helsinki",
+    "answer_inlang": "헬싱키"
+  },
+  {
+    "question": "토머스 에디슨은 전구로 무엇을 했나요?",
+    "context": "The light bulb was invented by Thomas Edison.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 19,
+    "answer": "invented",
+    "answer_inlang": "발명함"
+  },
+  {
+    "question": "빨간색과 노란색을 섞으면 무슨 색이 되나요?",
+    "context": "Orange is a mixture of red and yellow.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "orange",
+    "answer_inlang": "주황색"
+  },
+  {
+    "question": "태양계에서 가장 큰 행성은 무엇인가요?",
+    "context": "Jupiter is the fifth planet from the Sun and the largest in the Solar System.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Jupiter",
+    "answer_inlang": "목성"
+  },
+  {
+    "question": "프랑스 혁명은 언제 시작되었나요?",
+    "context": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 117,
+    "answer": "1789",
+    "answer_inlang": "1789년"
+  },
+  {
+    "question": "해리포터 시리즈의 저자는 누구인가요?",
+    "context": "J. K. Rowling, is a British novelist and author of Harry Potter, a seven-volume series about a young wizard.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "J.K. Rowling",
+    "answer_inlang": "J.K. 롤링"
+  },
+  {
+    "question": "지구의 위성은 무엇인가요?",
+    "context": "The Moon is Earth's only natural satellite.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "The Moon",
+    "answer_inlang": "달"
+  },
+  {
+    "question": "물의 화학식은 무엇인가요?",
+    "context": "Water is an inorganic compound with the chemical formula H2O.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 57,
+    "answer": "H2O",
+    "answer_inlang": "H2O"
+  },
+  {
+    "question": "첫 번째 아이폰이 출시된 연도는 언제인가요?",
+    "context": "Apple Inc. released the first iPhone in 2007.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 35,
+    "answer": "2007",
+    "answer_inlang": "2007년"
+  },
+  {
+    "question": "북극곰의 주 서식지는 어디인가요?",
+    "context": "Polar bears are marine mammals native to the Arctic region.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 41,
+    "answer": "Arctic",
+    "answer_inlang": "북극"
+  },
+  {
+    "question": "포토샵을 개발한 회사는 어디인가요?",
+    "context": "The Justice Department contains most of the United States' federal law enforcement agencies, including the Federal Bureau of Investigation.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "no",
+    "answer_inlang": "None"
+  },
+  {
+    "question": "오스트레일리아의 수도는 어디인가요?",
+    "context": "Canberra is the capital city of Australia and the capital and largest city of the Australian Capital Territory.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Canberra",
+    "answer_inlang": "캔버라"
+  },
+  {
+    "question": "DNA의 이중 나선 구조를 발견한 과학자는 누구인가요?",
+    "context": "Watson and Crick completed their model, which is now accepted as the first correct model of the double helix of DNA.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 0,
+    "answer": "Watson and Crick",
+    "answer_inlang": "왓슨과 크릭"
+  }
+]
