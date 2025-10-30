@@ -1,3 +1,8 @@
 /env
 /venv
 translation_cache.pkl
+/.ipynb_checkpoints
+/mlruns
+/wk40_distilbert-base-multilingual-cased
+/wk40_xlm-roberta-base
+/wk40_bert-base-multilingual-cased
